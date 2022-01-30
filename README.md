@@ -21,3 +21,9 @@
     - Failed, as the official suggested on 27th, Jan, they are working on this problme for users who affected innner GFW;
   - Try to find a better way to resolve the problme to add new feature to ```FAuthMethodModal``` by using fork;
  
+- 01-30-2022
+  - Objectives
+    - Update ```FAuthMethodModal``` UI
+    - Fix the UI in PC mode and Mobile mode
+    - Learn Solidity
+    - Do two Leetcode questions
