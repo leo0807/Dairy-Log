@@ -27,3 +27,10 @@
     - Fix the UI in PC mode and Mobile mode
     - Learn Solidity
     - Do two Leetcode questions
+
+- 01-31-2022 - 02-03-2022 
+  - Vacation
+
+- 02-03-2022 - 02-04-2022
+  - Complete hover effects
+  - Complete Fennc built-in function
