@@ -56,3 +56,6 @@
   1. Fix Qrcode with dynamic url
   2. Complete all css (maybe need to more work on the mobile part)
   3. Fix the `Uncaught ReferenceError: process is not defined` error
+
+- 02-12
+  1. Try to test it on real proj 
