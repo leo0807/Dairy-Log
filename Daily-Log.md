@@ -34,3 +34,25 @@
 - 02-03-2022 - 02-04-2022
   - Complete hover effects
   - Complete Fennc built-in function
+
+- 02-07-2022
+  1. Meeting
+  2. Paste the code of `4-swap`
+  3. Debugging
+
+- 02-08-2022
+  1. Learnig `vue-class-component`
+  2. Translate it into Chinese and make notes
+  3. Fix the problme that the image can be blank when the internet slow and the mouse hover over it
+  4. Add `Vue-i18n` for the interpolation of `v-icon`
+
+- 02-10
+  1. Learning `vuex-pathify` and `vuex-persiste`
+  2. Make transaltions and notes
+  3. Adjust css of the `fauth` component in mobile mode (not very well...)
+  4. Add static url to generate qrcode and adjust the css of qrcode
+
+- 02-11
+  1. Fix Qrcode with dynamic url
+  2. Complete all css (maybe need to more work on the mobile part)
+  3. Fix the `Uncaught ReferenceError: process is not defined` error
