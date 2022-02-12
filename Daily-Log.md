@@ -59,3 +59,6 @@
 
 - 02-12
   1. Try to test it on real proj 
+  2. Environment Variable generate error agian fix it with `webpack`
+  3. Rebase Commit and push the work to branch for further PR
+
