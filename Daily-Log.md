@@ -62,3 +62,6 @@
   2. Environment Variable generate error agian fix it with `webpack`
   3. Rebase Commit and push the work to branch for further PR
 
+- 02-13
+  1. Revise the Vue the knowledge
+  2. Learning `vue-decorator-property`, translate it into Chinese and make notes
