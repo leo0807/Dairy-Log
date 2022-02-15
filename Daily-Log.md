@@ -65,3 +65,8 @@
 - 02-13
   1. Revise the Vue the knowledge
   2. Learning `vue-decorator-property`, translate it into Chinese and make notes
+
+- 02-15
+  1. Fix `Fauth` Component Erro
+  2. Fix Vuetify `i18n` icon and link interpolation 
+  3. Learning multithreading management
