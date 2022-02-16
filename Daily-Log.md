@@ -70,3 +70,8 @@
   1. Fix `Fauth` Component Erro
   2. Fix Vuetify `i18n` icon and link interpolation 
   3. Learning multithreading management
+
+- 02-16
+  1. PR the code
+  2. Learn `BugSnag` and translate the docs into Chinese
+  - TODO 
