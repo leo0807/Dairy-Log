@@ -74,4 +74,8 @@
 - 02-16
   1. PR the code
   2. Learn `BugSnag` and translate the docs into Chinese
-  - TODO 
+  3. Complte 6 coding questions
+
+- 02-17
+  1. Waiting for response
+  TODO
