@@ -79,3 +79,8 @@
 - 02-17
   1. Waiting for response
   TODO
+- 02-19
+  1. Fix errors
+  2. Check syntax
+  3. Learn the usage of `git rebase`
+  4. Learn `Airbnb` style
