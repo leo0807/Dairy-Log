@@ -84,3 +84,11 @@
   2. Check syntax
   3. Learn the usage of `git rebase`
   4. Learn `Airbnb` style
+- 02-20
+  1. Weekend => Rest
+- 02-21
+  1. Meeting
+  2. Fix error of web application cannot work in APP
+  3. Learn git flow
+  4. Push the changes
+  5. Recode the `propsChecker` function
