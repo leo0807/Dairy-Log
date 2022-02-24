@@ -92,3 +92,6 @@
   3. Learn git flow
   4. Push the changes
   5. Recode the `propsChecker` function
+
+- 02-21
+  1. Fixing 400 status code error all day, still has erorr...
