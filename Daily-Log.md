@@ -93,5 +93,7 @@
   4. Push the changes
   5. Recode the `propsChecker` function
 
-- 02-21
+- 02-24
   1. Fixing 400 status code error all day, still has erorr...
+- 02-25
+  1. Still fixing 400 status code error all day, I really don't know why, it makes me headache
