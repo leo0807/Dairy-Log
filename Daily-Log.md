@@ -118,11 +118,5 @@
   2. Learn `C#` and `.net`
   3. Clean my apt
 
-- 02-28
-
-  1. Bug fixed, but got another one
-  2. Learn `C#`
-
-- 02-29
-  1. Bug fixed, but got another one
-  2. Learn `C#`
+- 02-28 - 03-03
+  1. Learn `C#`
