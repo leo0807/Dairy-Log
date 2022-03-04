@@ -120,3 +120,7 @@
 
 - 02-28 - 03-03
   1. Learn `C#`
+- 03-04
+  1. Learn `.net`
+  2. Do part time job
+  3. Complete Turing Questions
