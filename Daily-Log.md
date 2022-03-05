@@ -124,3 +124,6 @@
   1. Learn `.net`
   2. Do part time job
   3. Complete Turing Questions
+- 03-05 - 03-06
+  1. Weekends
+
